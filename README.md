@@ -1,2 +1,2 @@
-# winterclass-terraform-modules
+# terraform-modules-winterclass
 Repo for storing terraform modules.
