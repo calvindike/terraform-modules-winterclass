@@ -21,7 +21,7 @@ module "ModuleTestServer" {
   vpc_id = aws_vpc.devops_vpc.id
   cidr_block = "10.0.0.0/16" 
   devops-instance_name = "Webserver"
-  ami = "ami-0ae74ae9c43584639"
+  ami = "ami-0074ee617a234808d"
   instance_type = "t2.micro"
   key_name = "winter_key"
 #  security_groups = [aws_security_group.devops_SG.id]
